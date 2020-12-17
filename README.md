@@ -10,7 +10,7 @@ git
 
 
 
-github
+githu
 
 master/main branch
 
