@@ -10,10 +10,14 @@ git
 
 
 
-github
+githu
 
 master/main branch
 
 feature branch
 
 pull request
+
+bla bla bla 
+
+bla bla bla 
